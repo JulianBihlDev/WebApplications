@@ -1,0 +1,6 @@
+[submodule "wa_webserver"]
+	path = wa_webserver
+	url = https://github.com/nickhoess/wa_webserver
+[submodule "muehle-wa"]
+	path = muehle-wa
+	url = https://github.com/nickhoess/muehle-wa

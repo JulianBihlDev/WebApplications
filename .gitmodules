@@ -4,3 +4,6 @@
 [submodule "muehle-wa"]
 	path = muehle-wa
 	url = https://github.com/nickhoess/muehle-wa
+[submodule "muhle_vue_wa"]
+	path = muhle_vue_wa
+	url = https://github.com/JulianBihlDev/-Muehle_Vue_Webapp
